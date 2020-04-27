@@ -1,7 +1,6 @@
 import {IInputs, IOutputs} from "./generated/ManifestTypes";
 import * as  React from 'react';
 import * as  ReactDOM from 'react-dom';
-import './index.css';
 
 
 export class MyReactComp implements ComponentFramework.StandardControl<IInputs, IOutputs> {
