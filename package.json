@@ -11,8 +11,11 @@
   "dependencies": {
     "@types/node": "^10.12.18",
     "@types/powerapps-component-framework": "^1.2.0",
+    "ag-grid-community": "^23.0.2",
+    "ag-grid-react": "^23.0.3",
     "office-ui-fabric-react": "^7.107.5",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "react-dom-factories": "^1.0.2"
   },
   "devDependencies": {
     "@types/react": "^16.9.34",
